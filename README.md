@@ -113,5 +113,3 @@ The confusion matrix visualizes the model's performance across all classes.
 - HAM10000 Dataset contributors
 - Kaggle community for dataset hosting
 ```
-
-Simply copy and paste this into your `README.md` file on GitHub. It is fully formatted for GitHub's markdown renderer.
